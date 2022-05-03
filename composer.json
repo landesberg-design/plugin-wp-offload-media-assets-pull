@@ -1,0 +1,14 @@
+{
+  "name": "landesberg-design/wp-offload-media-assets-pull",
+  "type": "wordpress-plugin",
+  "description": "",
+  "require": {
+    "php": ">=5.6"
+  },
+  "authors": [
+    {
+      "name": "Delicious Brains",
+      "homepage": "https://deliciousbrains.com/"
+    }
+  ]
+}
